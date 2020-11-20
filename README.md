@@ -1,46 +1,82 @@
-# Getting Started with Create React App
+<h1 align="center">Desafio: Expansion Week</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://www.linkedin.com/in/helitonoliveira/">
+    <img alt="Made by Héliton Oliveira" src="https://img.shields.io/badge/made%20by-Héliton Oliveira-%23006f60">
+  </a>
 
-## Available Scripts
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%23006f60">
 
-In the project directory, you can run:
+  <a href="https://github.com/helitonoliveiraa/challenge/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/helitonoliveiraa/challenge?style=social">
+  </a>
+</p>
 
-### `yarn start`
+<p align="center">
+  <a href="#memo-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#arrowdown-como-clonar-o-projeto">Baixe o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pagefacingup-licença">Licença</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <img src="./.github/challenge-expansion-week.gif" alt="Happy">
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br />
 
-### `yarn test`
+<p  align="center">
+  <a href="https://challenge-expansion-week.netlify.app/">
+    <img src="./.github/button.png" atl="Resiliência">
+  </a>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br />
 
-### `yarn build`
+## :memo: Sobre
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://challenge-expansion-week.netlify.app/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Este é a resolução do desafio proposto na **Expansion Week**,  Onde todos os participantes foram desafiados a criar uma landing page falando sobre uma soft skill que acha mais importante para devs `(desenvolvedores / desenvolvedoras)`.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ A Expansion Week é um evento criado pela [Rocketseat](https://rocketseat.com.br/) focado em soft skill. Nele nós alunos, nos afastamos do código por uma semana e 100% da nossa ateção fica voltada para além do código.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :wrench: Ferramentas utilizadas
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [ReactJS](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [EditorConfig](https://editorconfig.org/)
+- [Prettier](https://prettier.io/)
+- [ESlint](https://eslint.org/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :arrow_down: Como clonar o projeto
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+⚠ **Obsevaçoes**<br />
 
-## Learn More
+é necessário ter as seguinte tecnologias instaladas em seu computados:
+- Node.js
+- yarn / npm
+- git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone o repositório
+$ git clone https://github.com/helitonoliveiraa/challenge.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Acesse a pasta do projeto
+$ cd challenge
+
+# Instale todas as dependências
+$ yarn / npm install
+
+# Rode o projeto
+$ yarn start / npm run start
+```
+
+## :page_facing_up: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/helitonoliveiraa/challenge/blob/main/LICENSE) para mais detalhes.
+
+<br /><br />
+
+<p align="center">Feito com 💛 by <a href="https://www.linkedin.com/in/helitonoliveira/" target="_blank">Héliton Oliveira</a></p>
